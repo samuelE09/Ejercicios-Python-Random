@@ -1,0 +1,23 @@
+trivia = [
+    {'id': 1, 'pregunta': '¿Cuál es el planeta más grande del sistema solar?', 
+     'respuestas': ['Júpiter', 'Saturno', 'Tierra'], 'resp_correcta': 'Júpiter'},
+    {'id': 2, 'pregunta': '¿Quién escribió el libro "Cien años de soledad"?',
+     'respuestas': ['Gabriel García Márquez', 'Jorge Luis Borges', 'Pablo Neruda'], 
+     'resp_correcta': 'Gabriel García Márquez'},
+    {'id': 3, 'pregunta': '¿Cuál es la capital de Australia?', 
+     'respuestas': ['Sydney', 'Melbourne', 'Canberra'], 'resp_correcta': 'Canberra'},
+    {'id': 4, 'pregunta': '¿Quién pintó la obra "La última cena"?', 
+     'respuestas': ['Leonardo da Vinci', 'Michelangelo', 'Rafael'], 'resp_correcta': 'Leonardo da Vinci'},
+    {'id': 5, 'pregunta': '¿Cuál es el río más largo del mundo?', 
+     'respuestas': ['Nilo', 'Amazonas', 'Misisipi'], 'resp_correcta': 'Nilo'},
+    {'id': 6, 'pregunta': '¿Cuál es el animal más rápido del mundo?',
+     'respuestas': ['Leopardo', 'Puma', 'Guepardo'], 'resp_correcta': 'Guepardo'},
+    {'id': 7, 'pregunta': '¿Quién descubrió América?', 
+     'respuestas': ['Cristóbal Colón', 'Amerigo Vespucci', 'Ferdinand Magellan'], 'resp_correcta': 'Cristóbal Colón'},
+    {'id': 8, 'pregunta': '¿Cuál es la moneda oficial de China?', 
+     'respuestas': ['Yuan', 'Dólar', 'Euro'], 'resp_correcta': 'Yuan'},
+    {'id': 9, 'pregunta': '¿Cuál es el elemento químico con el símbolo Au?',
+     'respuestas': ['Plata', 'Oro', 'Cobre'], 'resp_correcta': 'Oro'},
+    {'id': 10, 'pregunta': '¿Cuál es la ciudad más grande de México?',
+     'respuestas': ['México DF', 'Guadalajara', 'Monterrey'], 'resp_correcta': 'México DF'}
+]
