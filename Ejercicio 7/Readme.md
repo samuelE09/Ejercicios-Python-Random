@@ -17,5 +17,5 @@ La clase dispondrá de los siguientes metodos:
 > Codigo : [Ejercicio 7](./ejercicio7.py)
 
 <div align = "center">
-<img src="./img/ejercicio7.png">
+<img src="img/ejercicio7.png">
 </div>
