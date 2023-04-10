@@ -53,3 +53,7 @@ Salida: [[], [6], [5], [5, 6], [4], [4, 6], [4, 5], [4, 5, 6]]
 8. Escribe un programa que pueda calcular el area de 3 figuras geometricas, triangulo, rectangulo y circulo. En primer lugar pegunta de que figura se quiere calcular el area, despues solicita los datos que necesites para calcularlo.
 
     [Ver Solución](/Ejercicio%208/readme8.md)
+
+9. Solicita un numero e imprime todos los numeros pares e impares desde 1 hasta ese numero con el mensaje `"es par"` o `"es impar"`
+
+    [Ver Solución](/Ejercicio%209/readme9.md)
