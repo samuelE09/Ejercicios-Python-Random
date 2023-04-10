@@ -15,3 +15,15 @@ Completa la función dada, para que el código en principal funcione y resulte e
 En base al promedio final de las tres notas, mostrar un mensaje por pantalla que indique si el alumno promociona la materia(nota final 7,8,9 o 10), debe rendir final(notal final 4,5o 6) o recursa (nota 1,2,3)
 
     [Ver Solución](/Ejercicio%203/readme3.md)
+
+4. Diseñe un programa que genere numeros aleatorios enteros del intervalo 10 a 70 hasta obtener un numero mayor a 35 pero menor que 45. El programa mostrará: 
+    
+    - los numeros generados
+    - La suma de todos los numeros generados
+    - La cantidad de numeros generados del intervalo 10 a 30 
+    - la cantida de numeros generados del intervalo 31 a 50
+    - la cantidad de numeros generados del intervalo 51 a 70
+
+    [Ver Solución](/Ejercicio%204/readme4.md)
+
+5. 
