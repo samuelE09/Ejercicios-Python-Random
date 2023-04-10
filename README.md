@@ -26,4 +26,6 @@ En base al promedio final de las tres notas, mostrar un mensaje por pantalla que
 
     [Ver Solución](/Ejercicio%204/readme4.md)
 
-5. 
+5. Nuevo Equipamiento de Futbol, Cada miembro de un equipo de futbol ha decidido encargar un par de nuevas botas. Necesitamos escribir un programa en el sea posible ingresar los nombres y tallas de los jugadores de futbol y, que se muestren las tallas de los jugadores usando sus nombres. Si la persona no existe, se debe mostrar "No existe dicha persona en el Equipo"
+
+    [Ver Solución](/Ejercicio%205/readme5.md)
