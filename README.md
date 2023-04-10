@@ -30,6 +30,12 @@ En base al promedio final de las tres notas, mostrar un mensaje por pantalla que
 
     [Ver Solución](/Ejercicio%205/readme5.md)
 
+6. Escribir una clase en python que obtenga todos los posibles subconjuntos únicos de un conjunto de números enteros distintos. 
+Entrada: [4, 5, 6]
+Salida: [[], [6], [5], [5, 6], [4], [4, 6], [4, 5], [4, 5, 6]]
+
+    [Ver Solución](/Ejercicio%206/readme6.md)
+
 8. Escribe un programa que pueda calcular el area de 3 figuras geometricas, triangulo, rectangulo y circulo. En primer lugar pegunta de que figura se quiere calcular el area, despues solicita los datos que necesites para calcularlo.
 
     [Ver Solución](/Ejercicio%208/readme8.md)

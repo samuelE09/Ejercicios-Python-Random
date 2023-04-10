@@ -6,6 +6,11 @@ Escribir una clase en python que obtenga todos los posibles subconjuntos únicos
 
 * Salida: [ [ ], [ 6 ], [ 5 ], [5, 6], [ 4 ], [4, 6], [4, 5], [4, 5, 6] ]
 
+## **Solución**
+
+[Codigo de Solucion - ejercicio6.py](ejercicio6.py)
+
+
 ## **Explicacion**
 
 conjunto = [ 4, 5, 6 ]
