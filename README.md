@@ -15,3 +15,45 @@ Completa la función dada, para que el código en principal funcione y resulte e
 En base al promedio final de las tres notas, mostrar un mensaje por pantalla que indique si el alumno promociona la materia(nota final 7,8,9 o 10), debe rendir final(notal final 4,5o 6) o recursa (nota 1,2,3)
 
     [Ver Solución](/Ejercicio%203/readme3.md)
+
+4. Diseñe un programa que genere numeros aleatorios enteros del intervalo 10 a 70 hasta obtener un numero mayor a 35 pero menor que 45. El programa mostrará: 
+    
+    - los numeros generados
+    - La suma de todos los numeros generados
+    - La cantidad de numeros generados del intervalo 10 a 30 
+    - la cantida de numeros generados del intervalo 31 a 50
+    - la cantidad de numeros generados del intervalo 51 a 70
+
+    [Ver Solución](/Ejercicio%204/readme4.md)
+
+5. Nuevo Equipamiento de Futbol, Cada miembro de un equipo de futbol ha decidido encargar un par de nuevas botas. Necesitamos escribir un programa en el sea posible ingresar los nombres y tallas de los jugadores de futbol y, que se muestren las tallas de los jugadores usando sus nombres. Si la persona no existe, se debe mostrar "No existe dicha persona en el Equipo"
+
+    [Ver Solución](/Ejercicio%205/readme5.md)
+
+6. Escribir una clase en python que obtenga todos los posibles subconjuntos únicos de un conjunto de números enteros distintos. 
+Entrada: [4, 5, 6]
+Salida: [[], [6], [5], [5, 6], [4], [4, 6], [4, 5], [4, 5, 6]]
+
+    [Ver Solución](/Ejercicio%206/readme6.md)
+
+7. Crea una clase NIF que se usará para mantener DNIs con su correspondiente letra. Los atributos serán el numero de DNI (entero) y la letra que le corresponde. La clase dispondrá de los siguientes metodos: 
+
+    - Constructor predeterminado que inicialice el numero de DNI a 0 y la letra a espacio en blanco (será un NIF no valido).
+
+    - Constructor que reciba DNI y se establezca la letra que le corresponde.
+
+    - Accedentes para el numero de DNI (que ajuste automaticamente la letra)
+
+    - Leer(): que pida el numero de DNI (ajustando automaticamente la letra)
+
+    - Metodo que nos permita mostrar el NIF (8 digitos, un guion y la letra en mayuscula; por ejemplo: `00395469-F`)
+
+    [Ver Solución](/Ejercicio%207/readme7.md)
+
+8. Escribe un programa que pueda calcular el area de 3 figuras geometricas, triangulo, rectangulo y circulo. En primer lugar pegunta de que figura se quiere calcular el area, despues solicita los datos que necesites para calcularlo.
+
+    [Ver Solución](/Ejercicio%208/readme8.md)
+
+9. Solicita un numero e imprime todos los numeros pares e impares desde 1 hasta ese numero con el mensaje `"es par"` o `"es impar"`
+
+    [Ver Solución](/Ejercicio%209/readme9.md)

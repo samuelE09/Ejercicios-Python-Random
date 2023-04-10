@@ -14,7 +14,10 @@ La clase dispondrá de los siguientes metodos:
 
 - Metodo que nos permita mostrar el NIF (8 digitos, un guion y la letra en mayuscula; por ejemplo: `00395469-F`)
 
-> Codigo : [Ejercicio 7](./ejercicio7.py)
+## **Solución**
+
+[Codigo de Solucion - ejercicio7.py](ejercicio7.py)
+
 
 <div align = "center">
 <img src="img/ejercicio7.png">
